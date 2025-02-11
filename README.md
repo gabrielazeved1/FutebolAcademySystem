@@ -50,7 +50,6 @@ Esta classe gerencia a **conexão** com o banco de dados PostgreSQL. Ela cria e 
 
 ## Como Executar o Projeto
 
-## Como Executar o Projeto
 
 1. **Clonar o repositório**:
    Caso deseje baixar o projeto, basta clonar o repositório com o seguinte comando:
