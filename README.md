@@ -72,3 +72,8 @@ Esta classe gerencia a **conexão** com o banco de dados PostgreSQL. Ela cria e 
 ## Conclusão
 
 Este projeto é uma aplicação prática de **Programação Orientada a Objetos** em C#, implementando conceitos essenciais como **herança**, **polimorfismo** e **encapsulamento**. A aplicação gerencia uma escolinha de futebol e proporciona uma interface fácil de usar para cadastrar, editar e gerar relatórios sobre alunos, treinadores e modalidades.
+
+## Link Apresentação
+```bash
+https://youtu.be/Cc35mN2HEf4
+```
