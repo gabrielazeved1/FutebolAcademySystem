@@ -60,9 +60,9 @@ Esta classe gerencia a **conexão** com o banco de dados PostgreSQL. Ela cria e 
    
 2. **Instalar as dependências**:  
    Certifique-se de ter o **Npgsql** instalado para permitir a conexão com o banco de dados PostgreSQL. Se necessário, instale o pacote com o seguinte comando:
-
+   ```bash
    `Install-Package Npgsql`
-
+   ```
 3. **Configurar o Banco de Dados**:  
    - Instale o **PostgreSQL** e crie o banco de dados `bdEscolinha`.  
    - Configure a string de conexão na classe `ConexaoString.cs` com os dados corretos do seu banco de dados PostgreSQL.  
