@@ -56,6 +56,8 @@ Esta classe gerencia a **conexão** com o banco de dados PostgreSQL. Ela cria e 
 
    ```bash
    git clone https://github.com/gabrielazeved1/FutebolAcademySystem.git
+   ```
+   
 2. **Instalar as dependências**:  
    Certifique-se de ter o **Npgsql** instalado para permitir a conexão com o banco de dados PostgreSQL. Se necessário, instale o pacote com o seguinte comando:
 
